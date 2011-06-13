@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3locallang>
+	<meta type="array">
+		<type>database</type>
+		<description>Language labels for database tables/fields belonging to extension 'bb_shreknet'</description>
+	</meta>
+	<data type="array">
+		<languageKey index="default" type="array">
+			<label index="tx_bbshreknet_domain_model_article">Article</label>
+			<label index="tx_bbshreknet_domain_model_article.icon">Icon</label>
+			<label index="tx_bbshreknet_domain_model_article.link">Link</label>
+			<label index="tx_bbshreknet_domain_model_article.names">Names</label>
+			<label index="tx_bbshreknet_domain_model_article.prim_name">Prim Name</label>
+			<label index="tx_bbshreknet_domain_model_article.categories">Categories</label>
+			<label index="tx_bbshreknet_domain_model_article.entries">Entries</label>
+			<label index="tx_bbshreknet_domain_model_articlename">Article Name</label>
+			<label index="tx_bbshreknet_domain_model_articlename.title">Title</label>
+			<label index="tx_bbshreknet_domain_model_articlecategory">Article Category</label>
+			<label index="tx_bbshreknet_domain_model_articlecategory.title">Title</label>
+			<label index="tx_bbshreknet_domain_model_articlecategory.articles">Articles</label>
+			<label index="tx_bbshreknet_domain_model_articleentry">Article Entry</label>
+			<label index="tx_bbshreknet_domain_model_articleentry.text">Text</label>
+			<label index="tx_bbshreknet_domain_model_articleentry.cached_text">Cached Text</label>
+			<label index="tx_bbshreknet_domain_model_articleentry.post_time">Post Time</label>
+			<label index="tx_bbshreknet_domain_model_articleentry.privat">Privat</label>
+			<label index="tx_bbshreknet_domain_model_articleentry.old">Old</label>
+		</languageKey>
+	</data>
+</T3locallang>

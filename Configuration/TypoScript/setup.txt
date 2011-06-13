@@ -1,0 +1,30 @@
+plugin.tx_bbshreknet {
+	view {
+		templateRootPath = {$plugin.tx_bbshreknet.view.templateRootPath}
+		partialRootPath = {$plugin.tx_bbshreknet.view.partialRootPath}
+		layoutRootPath = {$plugin.tx_bbshreknet.view.layoutRootPath}
+	}
+	persistence {
+		storagePid = {$plugin.tx_bbshreknet.persistence.storagePid}
+	}
+}
+
+plugin.tx_bbshreknet._CSS_DEFAULT_STYLE (
+	input.f3-form-error {
+		background-color:#FF9F9F;
+		border: 1px #FF0000 solid;
+	}
+
+	.tx-bb-shreknet table {
+		border-collapse:separate;
+		border-spacing:10px;
+	}
+
+	.tx-bb-shreknet table th {
+		font-weight:bold;
+	}
+
+	.tx-bb-shreknet table td {
+		vertical-align:top;
+	}
+)

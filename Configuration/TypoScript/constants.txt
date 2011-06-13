@@ -1,0 +1,14 @@
+plugin.tx_bbshreknet {
+	view {
+		# cat=plugin.tx_bbshreknet/file; type=string; label=Path to template root (FE)
+		templateRootPath = EXT:bb_shreknet/Resources/Private/Templates/
+		# cat=plugin.tx_bbshreknet/file; type=string; label=Path to template partials (FE)
+		partialRootPath = EXT:bb_shreknet/Resources/Private/Partials/
+		# cat=plugin.tx_bbshreknet/file; type=string; label=Path to template layouts (FE)
+		layoutRootPath = EXT:bb_shreknet/Resources/Private/Layouts/
+	}
+	persistence {
+		# cat=plugin.tx_bbshreknet//a; type=int+; label=Default storage PID
+		storagePid = 
+	}
+}

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3locallang>
+	<meta type="array">
+		<type>module</type>
+		<description>Language labels for the Vampire the Masquerade: Shreknet extension in the FRONTEND</description>
+	</meta>
+	<data type="array">
+		<languageKey index="default" type="array">
+			<label index="tx_bbshreknet_domain_model_article">article desc</label>
+			<label index="tx_bbshreknet_domain_model_article.icon">articles icon</label>
+			<label index="tx_bbshreknet_domain_model_article.link">article link</label>
+			<label index="tx_bbshreknet_domain_model_article.names">list of all names</label>
+			<label index="tx_bbshreknet_domain_model_article.prim_name">primName</label>
+			<label index="tx_bbshreknet_domain_model_article.categories">categories</label>
+			<label index="tx_bbshreknet_domain_model_article.entries">entries</label>
+			<label index="tx_bbshreknet_domain_model_articlename">ArticleName</label>
+			<label index="tx_bbshreknet_domain_model_articlename.title">title</label>
+			<label index="tx_bbshreknet_domain_model_articlecategory">ArticleCategory</label>
+			<label index="tx_bbshreknet_domain_model_articlecategory.title">title</label>
+			<label index="tx_bbshreknet_domain_model_articlecategory.articles">articles</label>
+			<label index="tx_bbshreknet_domain_model_articleentry">missing the feUser</label>
+			<label index="tx_bbshreknet_domain_model_articleentry.text">text</label>
+			<label index="tx_bbshreknet_domain_model_articleentry.cached_text">cachedText</label>
+			<label index="tx_bbshreknet_domain_model_articleentry.post_time">postTime</label>
+			<label index="tx_bbshreknet_domain_model_articleentry.privat">privat</label>
+			<label index="tx_bbshreknet_domain_model_articleentry.old">old</label>
+		</languageKey>
+	</data>
+</T3locallang>

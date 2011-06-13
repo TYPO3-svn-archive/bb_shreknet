@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3locallang>
+	<meta type="array">
+		<description>Context Sensitive Help (CSH) for table tx_bbshreknet_domain_model_articleentry</description>
+		<type>CSH</type>
+		<csh_table>tx_bbshreknet_domain_model_articleentry</csh_table>
+	</meta>
+	<data type="array">
+	<languageKey index="default" type="array">
+			<label index="text.description">text</label>
+			<label index="cached_text.description">cachedText</label>
+			<label index="post_time.description">postTime</label>
+			<label index="privat.description">privat</label>
+			<label index="old.description">old</label>
+		</languageKey>
+	</data>
+</T3locallang>
